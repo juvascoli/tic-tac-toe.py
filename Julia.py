@@ -1,11 +1,4 @@
 
-#  fiap - 2 semestre - turma 1TDSPF
-#  Julia Vasconcelos Oliveira
-#  RM 558785
-#  Data de entrega: 01/09/2024
-#  Professor:  Fernando Almeida
-
-
 
 import random
 
